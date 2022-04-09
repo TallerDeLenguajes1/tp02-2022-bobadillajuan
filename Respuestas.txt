@@ -1,0 +1,7 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+- No puedo, esto se debe a que en este momento me encuentro en la rama "main" y no en la rama "Opcion_2" que es donde se encuentra el archivo. 
+
+¿Qué diferencias nota?
+
+- Al hacer el merge, ambas ramas se combinan, compartiendo así los mismos archivos. Gráficamente se ve que el "camino" de la rama Opcion_2 deja de converger y vuelve a la rama principal. 
